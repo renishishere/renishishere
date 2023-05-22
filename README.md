@@ -1,7 +1,7 @@
 <img src="https://github.com/renishishere/renishishere/blob/main/greeting.png" alt="renish.is greeting you!"> </img>
 
 <p>
-I do stuff, and sometimes that stuff makes a difference.
+I do stuff. Talk to me!
 </p>
 
 <details>
